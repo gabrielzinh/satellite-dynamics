@@ -1,0 +1,5 @@
+Eu vou colocar comentários explicando tudo detalhadamente, mas eu usei as seguintes documentações de guia:  
+
+- https://www.orekit.org/static/apidocs/
+- https://www.space-track.org/documentation#api
+- https://www.space-track.org/#queryBuilder
